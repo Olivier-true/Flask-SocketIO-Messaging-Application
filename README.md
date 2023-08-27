@@ -52,3 +52,5 @@ python3 main.py
 
 ## License
 This project is under the MIT license.
+
+<p align="center"><img src="https://ipipip-gh.0xsql.repl.co/webchat-io/views.png" alt="Visitors"></a></p>
